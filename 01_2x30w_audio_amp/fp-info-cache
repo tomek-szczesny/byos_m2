@@ -1,4 +1,4 @@
-23721199386471451
+23728119092040836
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -96383,6 +96383,13 @@ TPS551892QWRYQRQ1
 21
 21
 libs
+936
+936-1
+Connector
+0
+4
+4
+libs
 CUI_TBP01R1-508-02BE
 
 
@@ -96432,6 +96439,13 @@ Thermistor
 3
 3
 libs
+KLPX0848A2OG
+KLPX-0848A-2-O-G-2
+Connector
+0
+2
+2
+libs
 PTPS61288RQQR
 RQQ0011A_2022
 Integrated Circuit
@@ -96439,12 +96453,26 @@ Integrated Circuit
 15
 15
 libs
+SER1360182KLD
+SER1360-182KLD-1
+Inductor
+0
+3
+3
+libs
 SON65P300X450X100-15M-D
 DMT0014D
 Integrated Circuit
 0
 15
 15
+libs
+SOP254P1270X635-6N
+6-pin SM
+Transformer
+0
+6
+6
 libs
 WSON-8_L2.0-W2.0-P0.50-TL-EP
 

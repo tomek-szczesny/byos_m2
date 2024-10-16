@@ -1598,7 +1598,7 @@
 		(uuid "12b73e6a-84db-4b2e-acda-0451c69019af")
 	)
 	(junction
-		(at 203.2 91.44)
+		(at 203.2 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "16651729-f294-4e98-8290-f0fb76d313dc")
@@ -1628,7 +1628,7 @@
 		(uuid "2da09b48-550d-4ca8-a65e-f9d829e72a6b")
 	)
 	(junction
-		(at 203.2 55.88)
+		(at 203.2 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2e1b2d85-d309-41cf-899b-f39c187b81bc")
@@ -1638,12 +1638,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2e8cb04c-cd13-47d4-8854-1070dc8d095e")
-	)
-	(junction
-		(at 213.36 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2fc89d8c-1f3d-4971-8ee0-39fc1fed9545")
 	)
 	(junction
 		(at 92.71 85.09)
@@ -1658,7 +1652,7 @@
 		(uuid "314e20e0-958f-4477-9219-cd05045029d4")
 	)
 	(junction
-		(at 234.95 55.88)
+		(at 234.95 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3760bb46-d8b8-4d1c-8d50-b13d7b9ea805")
@@ -1700,7 +1694,7 @@
 		(uuid "44407e26-0398-43d3-abda-aa517258bbc9")
 	)
 	(junction
-		(at 224.79 55.88)
+		(at 224.79 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "45e6aad4-9635-46d7-8fea-781f3b2d132a")
@@ -1784,7 +1778,7 @@
 		(uuid "9abdfd17-4448-40cd-b479-3d4b620ae38f")
 	)
 	(junction
-		(at 224.79 91.44)
+		(at 224.79 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9c4ee458-ce5c-44d4-b4c0-774fb6033d91")
@@ -1808,19 +1802,13 @@
 		(uuid "a017c1c4-241a-4177-9384-99b2519eb659")
 	)
 	(junction
-		(at 229.87 142.24)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ab53dfe7-e71d-44a5-b076-2985953a7617")
-	)
-	(junction
 		(at 123.19 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "aec8f5a9-94a6-4f82-aed3-c12ee8e2fa12")
 	)
 	(junction
-		(at 234.95 91.44)
+		(at 234.95 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b6df6478-2ed4-41e8-8f25-87457ed99fe2")
@@ -1830,12 +1818,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b9558030-dee7-4903-b727-1439532168f8")
-	)
-	(junction
-		(at 212.09 22.86)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ba4db110-7451-465e-bba8-e10bddfcd34a")
 	)
 	(junction
 		(at 124.46 74.93)
@@ -1889,13 +1871,13 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 142.24) (xy 213.36 142.24)
+			(xy 210.82 22.86) (xy 210.82 27.94)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "03438fcb-7205-4aea-a39a-0d9d98f60f3f")
+		(uuid "011c625e-bd4a-42b7-8ff0-065a172ef78e")
 	)
 	(wire
 		(pts
@@ -1939,7 +1921,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 66.04) (xy 234.95 63.5)
+			(xy 234.95 81.28) (xy 234.95 83.82)
 		)
 		(stroke
 			(width 0)
@@ -1969,23 +1951,13 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 71.12) (xy 234.95 73.66)
+			(xy 234.95 76.2) (xy 234.95 73.66)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "103a5450-bffc-4692-8042-98a1c581e02a")
-	)
-	(wire
-		(pts
-			(xy 212.09 22.86) (xy 212.09 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "10d49a3e-59c3-44da-8608-771590f6aef3")
 	)
 	(wire
 		(pts
@@ -1999,7 +1971,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 55.88) (xy 224.79 62.23)
+			(xy 224.79 91.44) (xy 224.79 85.09)
 		)
 		(stroke
 			(width 0)
@@ -2009,7 +1981,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 91.44) (xy 203.2 86.36)
+			(xy 203.2 55.88) (xy 203.2 60.96)
 		)
 		(stroke
 			(width 0)
@@ -2089,7 +2061,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 88.9) (xy 234.95 91.44)
+			(xy 234.95 58.42) (xy 234.95 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2129,7 +2101,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 73.66) (xy 224.79 67.31)
+			(xy 224.79 73.66) (xy 224.79 80.01)
 		)
 		(stroke
 			(width 0)
@@ -2249,7 +2221,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 73.66) (xy 224.79 80.01)
+			(xy 224.79 73.66) (xy 224.79 67.31)
 		)
 		(stroke
 			(width 0)
@@ -2289,26 +2261,6 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 22.86) (xy 228.6 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "41e0a148-4a40-4333-83ae-686013c14882")
-	)
-	(wire
-		(pts
-			(xy 229.87 157.48) (xy 229.87 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "44080563-0cb0-4a12-9130-8726cda5a197")
-	)
-	(wire
-		(pts
 			(xy 153.67 105.41) (xy 177.8 105.41)
 		)
 		(stroke
@@ -2339,17 +2291,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 38.1) (xy 228.6 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5004cee2-d4d9-4be0-a090-61849db0f1d0")
-	)
-	(wire
-		(pts
-			(xy 203.2 55.88) (xy 224.79 55.88)
+			(xy 203.2 91.44) (xy 224.79 91.44)
 		)
 		(stroke
 			(width 0)
@@ -2369,7 +2311,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 100.33) (xy 77.47 100.33)
+			(xy 74.93 105.41) (xy 77.47 105.41)
 		)
 		(stroke
 			(width 0)
@@ -2389,6 +2331,16 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 142.24) (xy 212.09 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57c94301-c58a-48c0-9532-bffb35b5c766")
+	)
+	(wire
+		(pts
 			(xy 181.61 34.29) (xy 181.61 38.1)
 		)
 		(stroke
@@ -2399,17 +2351,7 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 142.24) (xy 233.68 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "59bc7e25-acb0-47b9-a14d-67484bc2d664")
-	)
-	(wire
-		(pts
-			(xy 194.31 91.44) (xy 203.2 91.44)
+			(xy 194.31 55.88) (xy 203.2 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2456,6 +2398,26 @@
 			(type default)
 		)
 		(uuid "5f71d5e0-92cc-44ec-8090-010ea7d74b15")
+	)
+	(wire
+		(pts
+			(xy 212.09 142.24) (xy 212.09 147.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6264e000-64e5-4ced-bd09-818fe7d2ae52")
+	)
+	(wire
+		(pts
+			(xy 210.82 35.56) (xy 210.82 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "626b5ff2-7d9e-4ecf-bc71-9e9b93c6aba0")
 	)
 	(wire
 		(pts
@@ -2539,7 +2501,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 22.86) (xy 212.09 22.86)
+			(xy 195.58 22.86) (xy 210.82 22.86)
 		)
 		(stroke
 			(width 0)
@@ -2559,7 +2521,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 55.88) (xy 203.2 55.88)
+			(xy 194.31 91.44) (xy 203.2 91.44)
 		)
 		(stroke
 			(width 0)
@@ -2629,7 +2591,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 68.58) (xy 203.2 73.66)
+			(xy 203.2 78.74) (xy 203.2 73.66)
 		)
 		(stroke
 			(width 0)
@@ -2649,16 +2611,6 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 22.86) (xy 228.6 22.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "74601eb7-5604-4d59-80da-752009519ad3")
-	)
-	(wire
-		(pts
 			(xy 170.18 78.74) (xy 177.8 78.74)
 		)
 		(stroke
@@ -2669,23 +2621,13 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 55.88) (xy 203.2 60.96)
+			(xy 203.2 91.44) (xy 203.2 86.36)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "76003267-1679-429b-ad9f-9e6ede382b8e")
-	)
-	(wire
-		(pts
-			(xy 212.09 38.1) (xy 212.09 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7b5e34d4-b4bd-47b9-b4fd-947fd8bc7372")
 	)
 	(wire
 		(pts
@@ -2699,7 +2641,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 91.44) (xy 241.3 91.44)
+			(xy 234.95 55.88) (xy 241.3 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2779,7 +2721,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 105.41) (xy 77.47 105.41)
+			(xy 49.53 100.33) (xy 77.47 100.33)
 		)
 		(stroke
 			(width 0)
@@ -3029,17 +2971,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 157.48) (xy 213.36 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b1e13834-0fad-4386-b036-68b555f0c79f")
-	)
-	(wire
-		(pts
-			(xy 234.95 81.28) (xy 234.95 83.82)
+			(xy 234.95 66.04) (xy 234.95 63.5)
 		)
 		(stroke
 			(width 0)
@@ -3079,16 +3011,6 @@
 	)
 	(wire
 		(pts
-			(xy 229.87 142.24) (xy 229.87 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b626adee-a59d-4eb7-af24-dbae86f7da52")
-	)
-	(wire
-		(pts
 			(xy 153.67 74.93) (xy 158.75 74.93)
 		)
 		(stroke
@@ -3119,7 +3041,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 58.42) (xy 234.95 55.88)
+			(xy 234.95 88.9) (xy 234.95 91.44)
 		)
 		(stroke
 			(width 0)
@@ -3129,7 +3051,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 55.88) (xy 234.95 55.88)
+			(xy 224.79 91.44) (xy 234.95 91.44)
 		)
 		(stroke
 			(width 0)
@@ -3179,7 +3101,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 55.88) (xy 241.3 55.88)
+			(xy 234.95 91.44) (xy 241.3 91.44)
 		)
 		(stroke
 			(width 0)
@@ -3219,17 +3141,7 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 142.24) (xy 213.36 147.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cc9573ef-00fd-4f4b-bc10-c2f8fdb5a8df")
-	)
-	(wire
-		(pts
-			(xy 203.2 78.74) (xy 203.2 73.66)
+			(xy 203.2 68.58) (xy 203.2 73.66)
 		)
 		(stroke
 			(width 0)
@@ -3249,7 +3161,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 76.2) (xy 234.95 73.66)
+			(xy 234.95 71.12) (xy 234.95 73.66)
 		)
 		(stroke
 			(width 0)
@@ -3289,7 +3201,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 91.44) (xy 234.95 91.44)
+			(xy 224.79 55.88) (xy 234.95 55.88)
 		)
 		(stroke
 			(width 0)
@@ -3306,6 +3218,16 @@
 			(type default)
 		)
 		(uuid "d34a6ffc-829f-4568-8e7f-e39b868ea269")
+	)
+	(wire
+		(pts
+			(xy 212.09 154.94) (xy 212.09 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d484a656-3cec-4c88-aa6a-5a5903b5217a")
 	)
 	(wire
 		(pts
@@ -3329,16 +3251,6 @@
 	)
 	(wire
 		(pts
-			(xy 213.36 142.24) (xy 229.87 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "da28a474-36f2-410f-82d8-a859cfc6826e")
-	)
-	(wire
-		(pts
 			(xy 153.67 87.63) (xy 177.8 87.63)
 		)
 		(stroke
@@ -3359,7 +3271,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 91.44) (xy 224.79 91.44)
+			(xy 203.2 55.88) (xy 224.79 55.88)
 		)
 		(stroke
 			(width 0)
@@ -3499,7 +3411,7 @@
 	)
 	(wire
 		(pts
-			(xy 224.79 91.44) (xy 224.79 85.09)
+			(xy 224.79 55.88) (xy 224.79 62.23)
 		)
 		(stroke
 			(width 0)
@@ -3579,7 +3491,7 @@
 		(uuid "bc207d20-a063-4992-ad13-353a30a9abea")
 	)
 	(label "Vcc"
-		(at 229.87 142.24 0)
+		(at 168.91 142.24 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3587,7 +3499,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "2cf0cfa6-d855-4ba7-823d-ae15a4a0ce24")
+		(uuid "23721174-5113-4cf9-a908-1956bdcd9194")
 	)
 	(label "Vcc"
 		(at 109.22 69.85 0)
@@ -3660,6 +3572,18 @@
 		)
 		(uuid "69748e75-93e8-404b-b085-edfa3dc57fc2")
 	)
+	(hierarchical_label "SYNC"
+		(shape output)
+		(at 109.22 128.27 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "78ae5c44-9cb5-4474-93b4-1e68fd1f61fe")
+	)
 	(hierarchical_label "R-"
 		(shape output)
 		(at 241.3 91.44 0)
@@ -3674,7 +3598,7 @@
 	)
 	(hierarchical_label "INL"
 		(shape input)
-		(at 49.53 105.41 180)
+		(at 49.53 100.33 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3717,7 +3641,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0411a0a1-32e2-4b2a-a5e1-9d4eb38b4948")
-		(property "Reference" "R815"
+		(property "Reference" "R615"
 			(at 231.14 125.73 0)
 			(effects
 				(font
@@ -3769,7 +3693,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "R815")
+					(reference "R615")
 					(unit 1)
 				)
 			)
@@ -3785,7 +3709,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "08af8fa7-bfda-4016-bba5-0b0f68d6c417")
-		(property "Reference" "R808"
+		(property "Reference" "R608"
 			(at 110.236 98.552 90)
 			(effects
 				(font
@@ -3837,7 +3761,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "R808")
+					(reference "R608")
 					(unit 1)
 				)
 			)
@@ -3845,15 +3769,16 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 234.95 68.58 180)
+		(at 234.95 78.74 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "0db88c40-0a77-4ca6-a20b-493394b83a0e")
-		(property "Reference" "C828"
-			(at 234.188 70.358 0)
+		(property "Reference" "C627"
+			(at 234.188 76.962 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3862,7 +3787,7 @@
 			)
 		)
 		(property "Value" "1n 35V"
-			(at 233.934 66.802 0)
+			(at 233.934 80.518 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3871,7 +3796,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 234.95 68.58 0)
+			(at 234.95 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3880,7 +3805,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 234.95 68.58 0)
+			(at 234.95 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3889,7 +3814,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 234.95 68.58 0)
+			(at 234.95 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3906,7 +3831,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C828")
+					(reference "C627")
 					(unit 1)
 				)
 			)
@@ -3921,7 +3846,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1449a78f-9ac2-49a7-9d32-d7f901b3a700")
-		(property "Reference" "#PWR0813"
+		(property "Reference" "#PWR0613"
 			(at 182.88 163.83 0)
 			(effects
 				(font
@@ -3970,7 +3895,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "#PWR0813")
+					(reference "#PWR0613")
 					(unit 1)
 				)
 			)
@@ -3978,7 +3903,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 74.93 100.33 270)
+		(at 74.93 105.41 270)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -3987,8 +3912,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "14be7acc-9885-4f12-8f31-d5c7822c1630")
-		(property "Reference" "#PWR0804"
-			(at 68.58 100.33 0)
+		(property "Reference" "#PWR0604"
+			(at 68.58 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3997,7 +3922,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 70.4866 100.33 0)
+			(at 70.4866 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4006,7 +3931,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 74.93 100.33 0)
+			(at 74.93 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4015,7 +3940,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 74.93 100.33 0)
+			(at 74.93 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4024,7 +3949,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 74.93 100.33 0)
+			(at 74.93 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4038,7 +3963,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "#PWR0804")
+					(reference "#PWR0604")
 					(unit 1)
 				)
 			)
@@ -4053,7 +3978,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1716e5b5-3cd9-4c5c-b94c-690e9677fc00")
-		(property "Reference" "C812"
+		(property "Reference" "C612"
 			(at 184.15 30.48 0)
 			(effects
 				(font
@@ -4107,7 +4032,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C812")
+					(reference "C612")
 					(unit 1)
 				)
 			)
@@ -4123,7 +4048,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "19431008-bc6f-49f0-85ad-e24c2ca0b3cc")
-		(property "Reference" "C831"
+		(property "Reference" "C629"
 			(at 234.188 117.602 0)
 			(effects
 				(font
@@ -4177,7 +4102,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C831")
+					(reference "C629")
 					(unit 1)
 				)
 			)
@@ -4193,7 +4118,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b402f0a-519d-4a4b-bb95-146c67b458ca")
-		(property "Reference" "#PWR0811"
+		(property "Reference" "#PWR0611"
 			(at 162.56 102.87 0)
 			(effects
 				(font
@@ -4244,7 +4169,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "#PWR0811")
+					(reference "#PWR0611")
 					(unit 1)
 				)
 			)
@@ -4260,7 +4185,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1c10de02-3d09-4570-816c-23fac06e04fe")
-		(property "Reference" "C802"
+		(property "Reference" "C602"
 			(at 90.678 103.632 0)
 			(effects
 				(font
@@ -4314,7 +4239,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C802")
+					(reference "C602")
 					(unit 1)
 				)
 			)
@@ -4330,7 +4255,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1e864df8-f03c-4c51-8ef2-050f3a710105")
-		(property "Reference" "R804"
+		(property "Reference" "R604"
 			(at 77.216 87.122 90)
 			(effects
 				(font
@@ -4382,7 +4307,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "R804")
+					(reference "R604")
 					(unit 1)
 				)
 			)
@@ -4397,7 +4322,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "25ba51e0-e1d1-484e-9d68-c1b206770528")
-		(property "Reference" "C813"
+		(property "Reference" "C613"
 			(at 185.42 149.86 0)
 			(effects
 				(font
@@ -4451,71 +4376,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C813")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 229.87 157.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "27b3ad19-0ce3-4ae6-94f7-b83a0a7eb81a")
-		(property "Reference" "#PWR0823"
-			(at 229.87 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 229.87 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 229.87 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 229.87 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 229.87 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d8750a8c-5f37-46a2-8968-60ee7c1dd563")
-		)
-		(instances
-			(project "m2-home-server-addon"
-				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "#PWR0823")
+					(reference "C613")
 					(unit 1)
 				)
 			)
@@ -4530,7 +4391,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "28522d0e-0e9b-443a-a941-dca76e7673b5")
-		(property "Reference" "C804"
+		(property "Reference" "C604"
 			(at 98.806 83.566 90)
 			(effects
 				(font
@@ -4584,7 +4445,71 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C804")
+					(reference "C604")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 210.82 38.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2f435248-74b5-48b3-a965-debd745b71f2")
+		(property "Reference" "#PWR0618"
+			(at 210.82 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 210.82 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 210.82 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 210.82 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 210.82 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "240de786-9815-449e-92ea-5f7bb6d01dbf")
+		)
+		(instances
+			(project "01_2x30w_audio_amp"
+				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
+					(reference "#PWR0618")
 					(unit 1)
 				)
 			)
@@ -4600,7 +4525,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "31bf2988-3350-4310-a726-99091843cd79")
-		(property "Reference" "L801"
+		(property "Reference" "L601"
 			(at 190.5 60.198 90)
 			(effects
 				(font
@@ -4608,7 +4533,7 @@
 				)
 			)
 		)
-		(property "Value" "SRN8040TA-100M"
+		(property "Value" "RFC0807B-123KE"
 			(at 190.5 58.1054 90)
 			(effects
 				(font
@@ -4616,7 +4541,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_Bourns_SRN8040TA"
+		(property "Footprint" "libs:SER1360182KLD"
 			(at 190.5 55.88 0)
 			(effects
 				(font
@@ -4625,7 +4550,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/srn8040ta.pdf"
+		(property "Datasheet" "https://eu.mouser.com/datasheet/2/597/ser1360-270713.pdf"
 			(at 190.5 55.88 0)
 			(effects
 				(font
@@ -4634,7 +4559,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10u 4.6A 33mR"
+		(property "Description" "10u 10.8mR 4.4A"
 			(at 190.5 54.61 90)
 			(effects
 				(font
@@ -4660,7 +4585,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "L801")
+					(reference "L601")
 					(unit 1)
 				)
 			)
@@ -4669,6 +4594,7 @@
 	(symbol
 		(lib_id "power:GND")
 		(at 198.12 73.66 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4676,7 +4602,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "32a8cf96-3b5f-4cda-8f0c-2fd09216932d")
-		(property "Reference" "#PWR0816"
+		(property "Reference" "#PWR0616"
 			(at 191.77 73.66 0)
 			(effects
 				(font
@@ -4727,23 +4653,39 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "#PWR0816")
+					(reference "#PWR0616")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 228.6 38.1 0)
+		(lib_id "Device:L")
+		(at 190.5 96.52 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "3eaf30d0-0d4e-425b-bed0-c74c439dc7fe")
-		(property "Reference" "#PWR0822"
-			(at 228.6 44.45 0)
+		(uuid "37e415b9-d838-4612-a2c6-a981b2261757")
+		(property "Reference" "L603"
+			(at 190.5 100.838 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "RFC0807B-123KE"
+			(at 190.5 98.7454 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "libs:SER1360182KLD"
+			(at 190.5 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4751,8 +4693,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "GND"
-			(at 228.6 41.91 0)
+		(property "Datasheet" "https://eu.mouser.com/datasheet/2/597/ser1360-270713.pdf"
+			(at 190.5 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4760,24 +4702,16 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
-			(at 228.6 38.1 0)
+		(property "Description" "10u 10.8mR 4.4A"
+			(at 190.5 95.25 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Datasheet" ""
-			(at 228.6 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 228.6 38.1 0)
+		(property "LCSC" ""
+			(at 190.5 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4786,12 +4720,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "9b445014-3c1e-4b80-9c07-e426f1a1a8ef")
+			(uuid "bd23d0f2-3c78-47af-923c-0fae2d872b8d")
+		)
+		(pin "2"
+			(uuid "5d107c25-2683-4bf1-adfe-226d41db063e")
 		)
 		(instances
-			(project "m2-home-server-addon"
+			(project "01_2x30w_audio_amp"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "#PWR0822")
+					(reference "L603")
 					(unit 1)
 				)
 			)
@@ -4806,7 +4743,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "402215b3-97a0-4d71-ae27-3a18606de338")
-		(property "Reference" "C815"
+		(property "Reference" "C615"
 			(at 199.39 149.86 0)
 			(effects
 				(font
@@ -4860,75 +4797,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C815")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 213.36 151.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4319af96-a4be-493e-b2d4-e91c7b0373a7")
-		(property "Reference" "C821"
-			(at 216.281 149.0288 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "865080545012"
-			(at 209.55 161.544 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_Elec_6.3x7.7"
-			(at 214.3252 154.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 213.36 151.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "100uF 35VDC 380mR"
-			(at 207.518 153.924 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "7f9ca542-68a5-4032-94e7-145fcfe1dd95")
-		)
-		(pin "1"
-			(uuid "c0decd53-6364-4c36-9ae8-c8478a2f15cf")
-		)
-		(instances
-			(project "m2-home-server-addon"
-				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C821")
+					(reference "C615")
 					(unit 1)
 				)
 			)
@@ -4944,7 +4813,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "459d8b13-18b9-48be-9fd3-cfa91bb6a8bc")
-		(property "Reference" "#PWR0821"
+		(property "Reference" "#PWR0621"
 			(at 214.63 114.3 0)
 			(effects
 				(font
@@ -4995,7 +4864,77 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "#PWR0821")
+					(reference "#PWR0621")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 203.2 64.77 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4e19af2d-e5da-4430-936d-8541c4fbb948")
+		(property "Reference" "C616"
+			(at 204.47 62.484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "B32529C684J"
+			(at 204.216 67.564 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
+			(at 204.1652 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 203.2 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "680n 63V"
+			(at 208.534 67.056 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "a7204938-1763-44a7-ab44-a3a708961218")
+		)
+		(pin "2"
+			(uuid "cefcbd3f-e0c6-4855-a8e2-74fe55ce1b9e")
+		)
+		(instances
+			(project "01_2x30w_audio_amp"
+				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
+					(reference "C616")
 					(unit 1)
 				)
 			)
@@ -5010,7 +4949,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "555f14d9-63d3-4742-9698-1ad1b3bcc165")
-		(property "Reference" "#PWR0812"
+		(property "Reference" "#PWR0612"
 			(at 181.61 44.45 0)
 			(effects
 				(font
@@ -5059,75 +4998,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "#PWR0812")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 212.09 31.75 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "592c9b9c-cd0d-471d-964a-6b77ee9cee64")
-		(property "Reference" "C820"
-			(at 215.011 29.6488 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "865080545012"
-			(at 208.28 42.164 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_Elec_6.3x7.7"
-			(at 213.0552 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 212.09 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "100uF 35VDC 380mR"
-			(at 206.248 34.544 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "0f363e72-4ce2-4fb4-bcde-368b97a87830")
-		)
-		(pin "1"
-			(uuid "ecf1264c-1ccb-4b0e-9148-fa2e4d3051ae")
-		)
-		(instances
-			(project "m2-home-server-addon"
-				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C820")
+					(reference "#PWR0612")
 					(unit 1)
 				)
 			)
@@ -5143,7 +5014,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "595d8f41-434b-48ff-954a-4bdb60408859")
-		(property "Reference" "R806"
+		(property "Reference" "R606"
 			(at 77.216 107.442 90)
 			(effects
 				(font
@@ -5195,7 +5066,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "R806")
+					(reference "R606")
 					(unit 1)
 				)
 			)
@@ -5211,7 +5082,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5a2e5e6f-6801-43c9-b2c4-bdf15af7cc86")
-		(property "Reference" "C825"
+		(property "Reference" "C625"
 			(at 224.028 121.412 0)
 			(effects
 				(font
@@ -5265,7 +5136,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C825")
+					(reference "C625")
 					(unit 1)
 				)
 			)
@@ -5281,7 +5152,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6154ee39-f850-486f-a38b-4cd674c30ac3")
-		(property "Reference" "#PWR0809"
+		(property "Reference" "#PWR0609"
 			(at 162.56 85.09 0)
 			(effects
 				(font
@@ -5332,82 +5203,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "#PWR0809")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:L")
-		(at 190.5 91.44 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6682c534-ec34-48bb-ba35-7b3b2819eb40")
-		(property "Reference" "L802"
-			(at 190.5 87.122 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SRN8040TA-100M"
-			(at 190.5 89.2146 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Inductor_SMD:L_Bourns_SRN8040TA"
-			(at 190.5 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/srn8040ta.pdf"
-			(at 190.5 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "10u 4.6A 33mR"
-			(at 190.5 92.71 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" ""
-			(at 190.5 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4fb24e99-8275-417b-8a61-4286003ea313")
-		)
-		(pin "2"
-			(uuid "fdf55303-b280-4c78-b549-e3be5bb07ce5")
-		)
-		(instances
-			(project "m2-home-server-addon"
-				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "L802")
+					(reference "#PWR0609")
 					(unit 1)
 				)
 			)
@@ -5423,7 +5219,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6defcc68-a00c-4d4e-8555-3c54a76238ea")
-		(property "Reference" "R814"
+		(property "Reference" "R614"
 			(at 231.14 102.87 0)
 			(effects
 				(font
@@ -5475,7 +5271,76 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "R814")
+					(reference "R614")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 210.82 31.75 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6e3e97b0-fbc4-4112-8fea-84d834d5bb30")
+		(property "Reference" "C620"
+			(at 213.741 29.6488 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "A750KS227M1EAAE015"
+			(at 213.741 32.0731 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
+			(at 211.7852 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://eu.mouser.com/datasheet/2/447/KEM_A4067_A750-3316071.pdf"
+			(at 210.82 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "220u 25V"
+			(at 217.424 34.544 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "bc477dba-223e-4804-82f9-6bbf91a42cb2")
+		)
+		(pin "2"
+			(uuid "08d07636-0b73-4793-baa2-1fea2c6da873")
+		)
+		(instances
+			(project ""
+				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
+					(reference "C620")
 					(unit 1)
 				)
 			)
@@ -5490,7 +5355,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6fe0b5b3-ffdd-4a99-8974-d150e56ca13a")
-		(property "Reference" "R803"
+		(property "Reference" "R603"
 			(at 77.216 77.978 90)
 			(effects
 				(font
@@ -5542,7 +5407,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "R803")
+					(reference "R603")
 					(unit 1)
 				)
 			)
@@ -5559,7 +5424,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "717b78dc-80e5-4ffd-83b2-b4b9e5025881")
-		(property "Reference" "#PWR0808"
+		(property "Reference" "#PWR0608"
 			(at 123.19 129.54 0)
 			(effects
 				(font
@@ -5610,7 +5475,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "#PWR0808")
+					(reference "#PWR0608")
 					(unit 1)
 				)
 			)
@@ -5626,7 +5491,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "72e17f8a-8190-4e7d-8fe0-e6ff9c222bdb")
-		(property "Reference" "R802"
+		(property "Reference" "R602"
 			(at 69.596 111.76 0)
 			(effects
 				(font
@@ -5678,71 +5543,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "R802")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 212.09 38.1 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7fdf3ed1-33b3-4f50-b0aa-64afc64614d7")
-		(property "Reference" "#PWR0818"
-			(at 212.09 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 212.09 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 212.09 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 212.09 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 212.09 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "58dbbadc-16a9-4c00-8bc8-a9d7e1ee8516")
-		)
-		(instances
-			(project "m2-home-server-addon"
-				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "#PWR0818")
+					(reference "R602")
 					(unit 1)
 				)
 			)
@@ -5758,7 +5559,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "829f7931-7ba4-450c-ad21-665c42c7d505")
-		(property "Reference" "#PWR0803"
+		(property "Reference" "#PWR0603"
 			(at 68.58 85.09 0)
 			(effects
 				(font
@@ -5809,7 +5610,76 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "#PWR0803")
+					(reference "#PWR0603")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 212.09 151.13 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8552eac7-65e4-4393-bf74-63b6b8f8a0a0")
+		(property "Reference" "C621"
+			(at 215.011 149.0288 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "A750KS227M1EAAE015"
+			(at 215.011 151.4531 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm"
+			(at 213.0552 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://eu.mouser.com/datasheet/2/447/KEM_A4067_A750-3316071.pdf"
+			(at 212.09 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "220u 25V"
+			(at 218.694 153.924 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "80b7e060-961b-422d-b081-4e077cab841c")
+		)
+		(pin "2"
+			(uuid "3ecf0a9a-02dd-4483-91d2-d6ae952d1994")
+		)
+		(instances
+			(project "01_2x30w_audio_amp"
+				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
+					(reference "C621")
 					(unit 1)
 				)
 			)
@@ -5824,7 +5694,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "85b05c5e-2fce-4783-9b5a-44501377614f")
-		(property "Reference" "R805"
+		(property "Reference" "R605"
 			(at 77.216 98.298 90)
 			(effects
 				(font
@@ -5876,7 +5746,76 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "R805")
+					(reference "R605")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 203.2 105.41 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8996f4e3-6cd5-4ca4-b6dc-e087c3de0285")
+		(property "Reference" "C618"
+			(at 204.47 107.696 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "B32529C684J"
+			(at 204.216 102.616 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
+			(at 204.1652 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 203.2 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "680n 63V"
+			(at 208.534 103.124 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c8919389-4cc6-4fb6-9eaa-14eed0662175")
+		)
+		(pin "2"
+			(uuid "d7e131d0-3f95-44d2-9b69-f46caae41ded")
+		)
+		(instances
+			(project "01_2x30w_audio_amp"
+				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
+					(reference "C618")
 					(unit 1)
 				)
 			)
@@ -5885,6 +5824,7 @@
 	(symbol
 		(lib_id "power:GND")
 		(at 220.98 73.66 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5892,7 +5832,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8c34c274-08d1-4d4c-be00-606b420d8dcc")
-		(property "Reference" "#PWR0820"
+		(property "Reference" "#PWR0620"
 			(at 214.63 73.66 0)
 			(effects
 				(font
@@ -5943,7 +5883,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "#PWR0820")
+					(reference "#PWR0620")
 					(unit 1)
 				)
 			)
@@ -5951,15 +5891,16 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 234.95 86.36 180)
+		(at 234.95 60.96 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "8d2def1b-4669-43de-92a9-8d4f562eb1be")
-		(property "Reference" "R813"
-			(at 231.14 85.09 0)
+		(property "Reference" "R612"
+			(at 231.14 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5967,7 +5908,7 @@
 			)
 		)
 		(property "Value" "3R3"
-			(at 231.14 87.63 0)
+			(at 231.14 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5975,7 +5916,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 234.95 86.36 0)
+			(at 234.95 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5984,7 +5925,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 234.95 86.36 0)
+			(at 234.95 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5993,7 +5934,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 234.95 86.36 0)
+			(at 234.95 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6010,7 +5951,82 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "R813")
+					(reference "R612")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:L")
+		(at 190.5 91.44 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8d5dd8c0-94a2-4cbc-b896-c72a13a89f45")
+		(property "Reference" "L602"
+			(at 190.5 87.122 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "RFC0807B-123KE"
+			(at 190.5 89.2146 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "libs:SER1360182KLD"
+			(at 190.5 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://eu.mouser.com/datasheet/2/597/ser1360-270713.pdf"
+			(at 190.5 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "10u 10.8mR 4.4A"
+			(at 190.5 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" ""
+			(at 190.5 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2fee1741-f479-4d81-8e39-a6058e11d22d")
+		)
+		(pin "2"
+			(uuid "fca13d28-eb57-4309-92ed-600101b41e5b")
+		)
+		(instances
+			(project "01_2x30w_audio_amp"
+				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
+					(reference "L602")
 					(unit 1)
 				)
 			)
@@ -6025,7 +6041,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8f2376e0-fb37-4bf7-96fd-fd6fc7206000")
-		(property "Reference" "C803"
+		(property "Reference" "C603"
 			(at 98.806 78.486 90)
 			(effects
 				(font
@@ -6079,76 +6095,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C803")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 203.2 105.41 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8fe747fc-0ff7-4405-84e9-99004f8d2a4b")
-		(property "Reference" "C818"
-			(at 204.47 107.696 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "680n 35V"
-			(at 204.216 102.616 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
-			(at 204.1652 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 203.2 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 203.2 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2a74e642-77c8-44c7-a227-cc093edc2ddb")
-		)
-		(pin "2"
-			(uuid "b2cb45e8-00ea-4cd2-999f-650bcd666af3")
-		)
-		(instances
-			(project "m2-home-server-addon"
-				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C818")
+					(reference "C603")
 					(unit 1)
 				)
 			)
@@ -6163,7 +6110,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "93c97a08-8b69-4432-8118-4f382ad6eccf")
-		(property "Reference" "C814"
+		(property "Reference" "C614"
 			(at 198.12 30.48 0)
 			(effects
 				(font
@@ -6217,7 +6164,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C814")
+					(reference "C614")
 					(unit 1)
 				)
 			)
@@ -6225,15 +6172,16 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 224.79 64.77 180)
+		(at 224.79 82.55 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "93f4960e-5dd1-4147-9d9a-a99988ed8834")
-		(property "Reference" "C822"
-			(at 224.028 66.548 0)
+		(property "Reference" "C623"
+			(at 224.028 80.772 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6242,7 +6190,7 @@
 			)
 		)
 		(property "Value" "1n 35V"
-			(at 223.774 62.992 0)
+			(at 223.774 84.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6251,7 +6199,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 224.79 64.77 0)
+			(at 224.79 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6260,7 +6208,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 224.79 64.77 0)
+			(at 224.79 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6269,7 +6217,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 224.79 64.77 0)
+			(at 224.79 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6286,7 +6234,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C822")
+					(reference "C623")
 					(unit 1)
 				)
 			)
@@ -6302,7 +6250,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "94b6ea52-ea9f-4742-be7d-cbb964a59f41")
-		(property "Reference" "#PWR0810"
+		(property "Reference" "#PWR0610"
 			(at 162.56 93.98 0)
 			(effects
 				(font
@@ -6353,83 +6301,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "#PWR0810")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:L")
-		(at 190.5 96.52 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "953967e6-1e39-439f-a7f3-1fc17ece6a37")
-		(property "Reference" "L803"
-			(at 190.5 100.838 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SRN8040TA-100M"
-			(at 190.5 98.7454 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Inductor_SMD:L_Bourns_SRN8040TA"
-			(at 190.5 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/srn8040ta.pdf"
-			(at 190.5 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "10u 4.6A 33mR"
-			(at 190.5 95.25 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC" ""
-			(at 190.5 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "07593b0d-b492-4548-b1f3-9cec1bc3573b")
-		)
-		(pin "2"
-			(uuid "9fda2a7a-3f1a-41a6-86d1-df50ce4aac74")
-		)
-		(instances
-			(project "m2-home-server-addon"
-				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "L803")
+					(reference "#PWR0610")
 					(unit 1)
 				)
 			)
@@ -6444,7 +6316,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9879e724-4a1a-4bd3-81a3-ae7a75d5eed7")
-		(property "Reference" "C830"
+		(property "Reference" "C628"
 			(at 234.188 110.998 0)
 			(effects
 				(font
@@ -6498,7 +6370,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C830")
+					(reference "C628")
 					(unit 1)
 				)
 			)
@@ -6514,7 +6386,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9af4dc2f-99d8-41d2-804b-a565f93160e8")
-		(property "Reference" "#PWR0806"
+		(property "Reference" "#PWR0606"
 			(at 102.87 72.39 0)
 			(effects
 				(font
@@ -6565,75 +6437,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "#PWR0806")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 228.6 31.75 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9d361692-bb91-4fff-b4da-d2a49d757ec9")
-		(property "Reference" "C826"
-			(at 231.521 29.6488 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "865080545012"
-			(at 224.79 42.164 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_Elec_6.3x7.7"
-			(at 229.5652 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 228.6 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "100uF 35VDC 380mR"
-			(at 222.758 34.544 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "c897c717-3e40-4901-9101-122c3b3e7784")
-		)
-		(pin "1"
-			(uuid "b74c2a5d-b248-4422-a8f9-50506a4039ac")
-		)
-		(instances
-			(project "m2-home-server-addon"
-				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C826")
+					(reference "#PWR0606")
 					(unit 1)
 				)
 			)
@@ -6641,16 +6445,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 224.79 82.55 0)
-		(mirror y)
+		(at 224.79 64.77 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "9ea77437-a88d-4894-ae44-74a9fac38457")
-		(property "Reference" "C823"
-			(at 224.028 80.772 0)
+		(property "Reference" "C622"
+			(at 224.028 66.548 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6659,7 +6462,7 @@
 			)
 		)
 		(property "Value" "1n 35V"
-			(at 223.774 84.328 0)
+			(at 223.774 62.992 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6668,7 +6471,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 224.79 82.55 0)
+			(at 224.79 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6677,7 +6480,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 224.79 82.55 0)
+			(at 224.79 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6686,7 +6489,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 224.79 82.55 0)
+			(at 224.79 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6703,7 +6506,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C823")
+					(reference "C622")
 					(unit 1)
 				)
 			)
@@ -6711,16 +6514,15 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 234.95 60.96 0)
-		(mirror y)
+		(at 234.95 86.36 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "9f928d81-b2c0-4005-a612-8a8d1c7a80db")
-		(property "Reference" "R812"
-			(at 231.14 62.23 0)
+		(property "Reference" "R613"
+			(at 231.14 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6728,7 +6530,7 @@
 			)
 		)
 		(property "Value" "3R3"
-			(at 231.14 59.69 0)
+			(at 231.14 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6736,7 +6538,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 234.95 60.96 0)
+			(at 234.95 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6745,7 +6547,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 234.95 60.96 0)
+			(at 234.95 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6754,7 +6556,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 234.95 60.96 0)
+			(at 234.95 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6771,7 +6573,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "R812")
+					(reference "R613")
 					(unit 1)
 				)
 			)
@@ -6787,7 +6589,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a33aae84-4dd4-4969-9692-cc0673b10c46")
-		(property "Reference" "#PWR0807"
+		(property "Reference" "#PWR0607"
 			(at 121.92 102.87 0)
 			(effects
 				(font
@@ -6838,7 +6640,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "#PWR0807")
+					(reference "#PWR0607")
 					(unit 1)
 				)
 			)
@@ -6846,15 +6648,16 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 203.2 64.77 0)
+		(at 203.2 82.55 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "a3e4c4a0-9463-4642-aa8c-d3b7e5403d09")
-		(property "Reference" "C816"
-			(at 204.47 67.056 0)
+		(property "Reference" "C617"
+			(at 204.47 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6862,17 +6665,18 @@
 				(justify left)
 			)
 		)
-		(property "Value" "680n 35V"
-			(at 204.216 61.976 0)
+		(property "Value" "B32529C684J"
+			(at 204.216 85.344 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
-			(at 204.1652 68.58 0)
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
+			(at 204.1652 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6880,8 +6684,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 203.2 64.77 0)
+		(property "Datasheet" "https://www.tdk-electronics.tdk.com/inf/20/20/db/fc_2009/B32520_529.pdf"
+			(at 203.2 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6889,13 +6693,12 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 203.2 64.77 0)
+		(property "Description" "680n 63V"
+			(at 208.534 84.836 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6907,7 +6710,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C816")
+					(reference "C617")
 					(unit 1)
 				)
 			)
@@ -6915,14 +6718,15 @@
 	)
 	(symbol
 		(lib_id "Device:L")
-		(at 190.5 132.08 90)
+		(at 190.5 132.08 270)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "a579e0cf-5580-4008-9e98-23e5058dc931")
-		(property "Reference" "L804"
+		(uuid "ab288a93-2954-4f93-a57b-cb83d88db12b")
+		(property "Reference" "L604"
 			(at 190.5 127.762 90)
 			(effects
 				(font
@@ -6930,7 +6734,7 @@
 				)
 			)
 		)
-		(property "Value" "SRN8040TA-100M"
+		(property "Value" "RFC0807B-123KE"
 			(at 190.5 129.8546 90)
 			(effects
 				(font
@@ -6938,7 +6742,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_Bourns_SRN8040TA"
+		(property "Footprint" "libs:SER1360182KLD"
 			(at 190.5 132.08 0)
 			(effects
 				(font
@@ -6947,7 +6751,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/srn8040ta.pdf"
+		(property "Datasheet" "https://eu.mouser.com/datasheet/2/597/ser1360-270713.pdf"
 			(at 190.5 132.08 0)
 			(effects
 				(font
@@ -6956,7 +6760,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10u 4.6A 33mR"
+		(property "Description" "10u 10.8mR 4.4A"
 			(at 190.5 133.35 90)
 			(effects
 				(font
@@ -6974,15 +6778,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "e7d33a88-5ad1-4aef-80b6-b567920c33ef")
+			(uuid "9c38de38-6763-4f64-be5f-51147c7338fd")
 		)
 		(pin "2"
-			(uuid "83a6f319-2cca-4d6f-81aa-e2c8184e4159")
+			(uuid "2fddff62-525b-4450-8239-2f0eb4018aef")
 		)
 		(instances
-			(project "m2-home-server-addon"
+			(project "01_2x30w_audio_amp"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "L804")
+					(reference "L604")
 					(unit 1)
 				)
 			)
@@ -6998,7 +6802,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ac032054-267c-4611-9d35-30c630d3f6eb")
-		(property "Reference" "C805"
+		(property "Reference" "C605"
 			(at 98.806 101.854 90)
 			(effects
 				(font
@@ -7052,7 +6856,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C805")
+					(reference "C605")
 					(unit 1)
 				)
 			)
@@ -7067,7 +6871,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "af9d8d31-3702-4192-9a4d-f1f1e9b38f1e")
-		(property "Reference" "#PWR0815"
+		(property "Reference" "#PWR0615"
 			(at 196.85 163.83 0)
 			(effects
 				(font
@@ -7116,7 +6920,76 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "#PWR0815")
+					(reference "#PWR0615")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 203.2 123.19 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b2b378c1-c531-436b-b0d4-f92c90cd7f26")
+		(property "Reference" "C619"
+			(at 204.47 125.476 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "B32529C684J"
+			(at 204.216 120.396 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:C_Rect_L7.2mm_W2.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2"
+			(at 204.1652 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 203.2 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "680n 63V"
+			(at 208.534 120.904 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6053be79-2c1c-472c-b757-54b654e8d445")
+		)
+		(pin "2"
+			(uuid "2f61a034-d8a5-4ca7-a862-32659f90c8b4")
+		)
+		(instances
+			(project "01_2x30w_audio_amp"
+				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
+					(reference "C619")
 					(unit 1)
 				)
 			)
@@ -7133,7 +7006,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b4070751-8f37-4076-bf36-7371652803a7")
-		(property "Reference" "#PWR0802"
+		(property "Reference" "#PWR0602"
 			(at 64.77 124.46 0)
 			(effects
 				(font
@@ -7184,7 +7057,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "#PWR0802")
+					(reference "#PWR0602")
 					(unit 1)
 				)
 			)
@@ -7200,7 +7073,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "b863c740-4fa4-4538-a9c0-3092597926e3")
-		(property "Reference" "R809"
+		(property "Reference" "R609"
 			(at 113.03 71.12 90)
 			(effects
 				(font
@@ -7252,7 +7125,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "R809")
+					(reference "R609")
 					(unit 1)
 				)
 			)
@@ -7267,7 +7140,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ba9fef8d-4f58-4196-aa1e-4c1a93bb3a71")
-		(property "Reference" "C809"
+		(property "Reference" "C610"
 			(at 166.37 94.996 90)
 			(effects
 				(font
@@ -7321,71 +7194,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C809")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 213.36 157.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "bb1c19a0-98d5-427b-ae01-aca4f672479b")
-		(property "Reference" "#PWR0819"
-			(at 213.36 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 213.36 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 213.36 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 213.36 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 213.36 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "faca7300-ed71-4419-9e6f-f591db0251c3")
-		)
-		(instances
-			(project "m2-home-server-addon"
-				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "#PWR0819")
+					(reference "C610")
 					(unit 1)
 				)
 			)
@@ -7400,7 +7209,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bc8271bb-0894-442b-8642-2de8b0d6f4ec")
-		(property "Reference" "#PWR0814"
+		(property "Reference" "#PWR0614"
 			(at 195.58 44.45 0)
 			(effects
 				(font
@@ -7449,7 +7258,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "#PWR0814")
+					(reference "#PWR0614")
 					(unit 1)
 				)
 			)
@@ -7465,7 +7274,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c153a82a-349b-495f-af81-aeb4295352f2")
-		(property "Reference" "U801"
+		(property "Reference" "U601"
 			(at 139.7 65.8325 0)
 			(effects
 				(font
@@ -7610,7 +7419,7 @@
 		(instances
 			(project ""
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "U801")
+					(reference "U601")
 					(unit 1)
 				)
 			)
@@ -7626,7 +7435,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c2743351-8b9a-49eb-9650-7b50cf653ac0")
-		(property "Reference" "R811"
+		(property "Reference" "R611"
 			(at 113.03 76.2 90)
 			(effects
 				(font
@@ -7678,7 +7487,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "R811")
+					(reference "R611")
 					(unit 1)
 				)
 			)
@@ -7693,7 +7502,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c333bb39-df44-42e4-b720-9b5a0a2ca983")
-		(property "Reference" "C801"
+		(property "Reference" "C601"
 			(at 90.678 81.788 0)
 			(effects
 				(font
@@ -7747,7 +7556,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C801")
+					(reference "C601")
 					(unit 1)
 				)
 			)
@@ -7763,7 +7572,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c57420a1-7f9a-426e-a737-6482d0112f1d")
-		(property "Reference" "C806"
+		(property "Reference" "C606"
 			(at 98.806 106.934 90)
 			(effects
 				(font
@@ -7817,7 +7626,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C806")
+					(reference "C606")
 					(unit 1)
 				)
 			)
@@ -7825,7 +7634,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 167.64 91.44 90)
+		(at 167.64 78.74 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7833,8 +7642,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c8261675-d791-40b5-87a1-b065885ca986")
-		(property "Reference" "C808"
-			(at 166.37 92.964 90)
+		(property "Reference" "C608"
+			(at 166.37 80.264 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7843,7 +7652,7 @@
 			)
 		)
 		(property "Value" "220n 50V"
-			(at 166.624 90.17 90)
+			(at 166.624 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7852,7 +7661,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 167.64 91.44 0)
+			(at 167.64 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7861,7 +7670,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 167.64 91.44 0)
+			(at 167.64 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7870,7 +7679,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 167.64 91.44 0)
+			(at 167.64 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7887,7 +7696,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C808")
+					(reference "C608")
 					(unit 1)
 				)
 			)
@@ -7903,7 +7712,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cc8351eb-de31-4e6e-8bb5-de9542906a89")
-		(property "Reference" "C810"
+		(property "Reference" "C611"
 			(at 166.37 110.744 90)
 			(effects
 				(font
@@ -7957,7 +7766,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C810")
+					(reference "C611")
 					(unit 1)
 				)
 			)
@@ -7972,7 +7781,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cf543c7d-9e85-4014-94cb-0fee9c51d0d3")
-		(property "Reference" "C824"
+		(property "Reference" "C624"
 			(at 224.028 107.188 0)
 			(effects
 				(font
@@ -8026,7 +7835,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C824")
+					(reference "C624")
 					(unit 1)
 				)
 			)
@@ -8042,7 +7851,7 @@
 		(on_board yes)
 		(dnp yes)
 		(uuid "d35c7f97-95ef-4fa7-91f5-3401e6fc2ba4")
-		(property "Reference" "R807"
+		(property "Reference" "R607"
 			(at 110.236 93.472 90)
 			(effects
 				(font
@@ -8094,7 +7903,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "R807")
+					(reference "R607")
 					(unit 1)
 				)
 			)
@@ -8110,7 +7919,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d92ef8dd-933a-46b2-815d-ff369496a8bd")
-		(property "Reference" "R810"
+		(property "Reference" "R610"
 			(at 113.03 73.66 90)
 			(effects
 				(font
@@ -8162,73 +7971,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "R810")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+3V3")
-		(at 64.77 68.58 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e0335fd1-cfbc-40ca-9e3d-bb3e245e55fc")
-		(property "Reference" "#PWR0801"
-			(at 64.77 72.39 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+3V3"
-			(at 64.77 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 64.77 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 64.77 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 64.77 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "61a4fd92-b7a6-4a01-b46d-96efd541383b")
-		)
-		(instances
-			(project "m2-home-server-addon"
-				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "#PWR0801")
+					(reference "R610")
 					(unit 1)
 				)
 			)
@@ -8244,7 +7987,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e22ed354-aaa8-4040-be12-329a806b473a")
-		(property "Reference" "R801"
+		(property "Reference" "R601"
 			(at 59.944 72.39 0)
 			(effects
 				(font
@@ -8296,41 +8039,23 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "R801")
+					(reference "R601")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Polarized")
-		(at 229.87 151.13 0)
+		(lib_id "power:GND")
+		(at 212.09 157.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "e8af3a94-87cf-4c86-a6e7-e33a3973f2fd")
-		(property "Reference" "C827"
-			(at 232.791 149.0288 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "865080545012"
-			(at 226.06 161.544 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_Elec_6.3x7.7"
-			(at 230.8352 154.94 0)
+		(uuid "e5963bee-559e-469a-9bea-027b4f0f8907")
+		(property "Reference" "#PWR0619"
+			(at 212.09 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8338,8 +8063,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
-			(at 229.87 151.13 0)
+		(property "Value" "GND"
+			(at 212.09 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8347,24 +8072,104 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100uF 35VDC 380mR"
-			(at 224.028 153.924 90)
+		(property "Footprint" ""
+			(at 212.09 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(pin "2"
-			(uuid "81e89720-0ac2-4c52-ac73-6817ffa1b1ed")
+		(property "Datasheet" ""
+			(at 212.09 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 212.09 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
 		)
 		(pin "1"
-			(uuid "2635b874-5892-4f03-81f9-b298eb83155a")
+			(uuid "1d0de8ec-0dd1-4acf-a240-4a0ee501b3d3")
 		)
 		(instances
-			(project "m2-home-server-addon"
+			(project "01_2x30w_audio_amp"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C827")
+					(reference "#PWR0619")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3V3")
+		(at 64.77 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ed547163-d67f-4546-8fb8-32036438fd36")
+		(property "Reference" "#PWR0601"
+			(at 64.77 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3_1"
+			(at 64.77 64.4469 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 64.77 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 64.77 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 64.77 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b8a65d67-acdb-426e-9ed5-18eec275b291")
+		)
+		(instances
+			(project "01_2x30w_audio_amp"
+				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
+					(reference "#PWR0601")
 					(unit 1)
 				)
 			)
@@ -8380,7 +8185,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ed782f8e-95bf-4e37-bfd5-595aa9dd426e")
-		(property "Reference" "#PWR0817"
+		(property "Reference" "#PWR0617"
 			(at 191.77 114.3 0)
 			(effects
 				(font
@@ -8431,77 +8236,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "#PWR0817")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 203.2 82.55 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "eea5470b-e2af-4801-8629-d53547e387d2")
-		(property "Reference" "C817"
-			(at 204.47 80.264 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "680n 35V"
-			(at 204.216 85.344 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
-			(at 204.1652 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 203.2 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 203.2 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7a928adc-a5c2-4d67-bad4-b5b6eaae6f1c")
-		)
-		(pin "2"
-			(uuid "4fa4c34d-65e9-4270-a8fe-5bea496966a3")
-		)
-		(instances
-			(project "m2-home-server-addon"
-				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C817")
+					(reference "#PWR0617")
 					(unit 1)
 				)
 			)
@@ -8509,16 +8244,15 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 234.95 78.74 0)
-		(mirror y)
+		(at 234.95 68.58 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "f40fa44f-7b16-4ba0-b6c8-002078135e70")
-		(property "Reference" "C829"
-			(at 234.188 76.962 0)
+		(property "Reference" "C626"
+			(at 234.188 70.358 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8527,7 +8261,7 @@
 			)
 		)
 		(property "Value" "1n 35V"
-			(at 233.934 80.518 0)
+			(at 233.934 66.802 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8536,7 +8270,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 234.95 78.74 0)
+			(at 234.95 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8545,7 +8279,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 234.95 78.74 0)
+			(at 234.95 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8554,7 +8288,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 234.95 78.74 0)
+			(at 234.95 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8571,7 +8305,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C829")
+					(reference "C626")
 					(unit 1)
 				)
 			)
@@ -8579,7 +8313,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 167.64 78.74 90)
+		(at 167.64 91.44 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8587,8 +8321,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f45ba91c-c47e-4a83-bccd-d6206c89f4fe")
-		(property "Reference" "C832"
-			(at 166.37 80.264 90)
+		(property "Reference" "C609"
+			(at 166.37 92.964 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8597,7 +8331,7 @@
 			)
 		)
 		(property "Value" "220n 50V"
-			(at 166.624 77.47 90)
+			(at 166.624 90.17 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8606,7 +8340,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 167.64 78.74 0)
+			(at 167.64 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8615,7 +8349,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 167.64 78.74 0)
+			(at 167.64 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8624,7 +8358,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 167.64 78.74 0)
+			(at 167.64 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8641,7 +8375,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C832")
+					(reference "C609")
 					(unit 1)
 				)
 			)
@@ -8657,7 +8391,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f9ad3934-2156-44d6-a792-f89019f69373")
-		(property "Reference" "#PWR0805"
+		(property "Reference" "#PWR0605"
 			(at 100.33 88.9 0)
 			(effects
 				(font
@@ -8708,77 +8442,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "#PWR0805")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 203.2 123.19 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "facdd0d3-f211-4618-8720-6d0cca9ab028")
-		(property "Reference" "C819"
-			(at 204.47 120.904 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "680n 35V"
-			(at 204.216 125.984 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
-			(at 204.1652 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 203.2 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 203.2 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2665fde0-3376-4d88-bef1-aeb7bb024a93")
-		)
-		(pin "2"
-			(uuid "c991ef99-1b03-444a-b974-0b64046af965")
-		)
-		(instances
-			(project "m2-home-server-addon"
-				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C819")
+					(reference "#PWR0605")
 					(unit 1)
 				)
 			)
@@ -8793,7 +8457,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fadc0fb7-af33-4a96-9fc5-336856eb32fc")
-		(property "Reference" "C807"
+		(property "Reference" "C607"
 			(at 112.014 87.376 90)
 			(effects
 				(font
@@ -8847,7 +8511,7 @@
 		(instances
 			(project "m2-home-server-addon"
 				(path "/4daea274-5cc4-42d2-a48d-7e8145ae0bac/a012c8fd-11bf-4a40-b9d7-78ef5ce50c97"
-					(reference "C807")
+					(reference "C607")
 					(unit 1)
 				)
 			)

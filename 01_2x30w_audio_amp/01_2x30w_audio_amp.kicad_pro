@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.25
+          "min_clearance": 0.2
         }
       },
       "diff_pair_dimensions": [
@@ -182,7 +182,8 @@
         0.2,
         0.5,
         1.0,
-        2.0
+        2.0,
+        3.0
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -673,6 +674,18 @@
     [
       "0ab95e36-9285-428d-814d-6d727efcbe1b",
       "12V Buck"
+    ],
+    [
+      "e852f3b5-3702-4b1a-80f5-5b0ff84e38de",
+      "SPDIF out"
+    ],
+    [
+      "b1a01afc-79df-48e4-8c3a-4d4110832863",
+      "Power Monitor"
+    ],
+    [
+      "24d35c8d-f294-488d-a52f-18ad3dad4052",
+      "Fan Header"
     ],
     [
       "a012c8fd-11bf-4a40-b9d7-78ef5ce50c97",
